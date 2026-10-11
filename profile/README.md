@@ -1,4 +1,4 @@
-# Hallo, I'm Leo!
+# Hallo, I'm Emi!
 
 Fullstack developer with experience in software engineering, cloud
 deployment, and infrastructure automation.
@@ -44,4 +44,4 @@ Also managed a Moggo client project during my freelance work.
 Based in Lille, France.  
 French: native · English: professional working proficiency
 
-[Get in touch](mailto:leonard.chabot@nuka.works)
+[Get in touch](mailto:emi.chabot@hisuika.com)
