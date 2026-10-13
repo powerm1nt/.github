@@ -44,4 +44,4 @@ Also managed a Moggo client project during my freelance work.
 Based in Lille, France.  
 French: native · English: professional working proficiency
 
-[Get in touch](mailto:emi.chabot@hisuika.com)
+[Get in touch](mailto:leonard.chabot@hisuika.com)
