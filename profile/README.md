@@ -1,4 +1,4 @@
-# Hallo, I'm Emi!
+# Hallo, I'm Leo!
 
 Fullstack developer with experience in software engineering, cloud
 deployment, and infrastructure automation.
